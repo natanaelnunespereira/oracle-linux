@@ -2,7 +2,7 @@
 
 Esta documentação tem por objetivo principal apresentar as etapas de ambientação virtual e instalação do SO.
 
-### Pré requisitos
+### Pré-requisitos
 
 - Possuir o [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) instalado em sua máquina.
 
